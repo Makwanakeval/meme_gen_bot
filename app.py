@@ -1,3 +1,4 @@
+# Generate Meme using the Google Studio Gemini API Key
 import os
 import google.generativeai as genai
 from dotenv import load_dotenv
